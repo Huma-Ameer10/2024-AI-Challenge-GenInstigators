@@ -24,7 +24,7 @@ Welcome to the AI Equity Advisor! Our solution aims to revolutionize the investm
 ## Technologies
 
 - Programming Language: Python (version: 3.10.4)
-- UI Framework: Streamlit (version: 1.12.0)
+- UI Framework: Streamlit (version: 1.33.0)
 - Generative AI: Langchain, LLama2, GPT 3.5
 - Technical Indicators Library: TA-Lib
 - Data Visualization: plotly (version: 5.10.0)
