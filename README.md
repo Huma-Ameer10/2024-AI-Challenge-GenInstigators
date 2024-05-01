@@ -49,11 +49,12 @@ Welcome to the AI Equity Adivsor! Our solution aims to revolutionize the investm
   
    ![events_identified](https://github.com/Huma-Ameer10/2024-AI-Challenge-GenInstigators/assets/88269723/9c432611-de57-41fc-b6a9-05567422bac0)
 
-   
-5. <b>GenAI Recommendations</b> module can automatically detect the events from the real-time news to highlight their impact on the market trend. Detail of events with high impacts is also in display for comprehensive analysis.
-   ![genAIrecomm](https://github.com/Huma-Ameer10/2024-AI-Challenge-GenInstigators/assets/88269723/5f949b8f-1d77-43c9-a55f-5251d03e94bb)
+3. <b>GenAI Recommendations</b> is a module built with GenAI technology which provides Custom recommendations to the user based on his role as an equity analyst or an active trader. By analysing both the technical indicators and news based event impact, a risk tolerance based recommendation along with its rational is generated for the following day.For quick accuracy check of the generated recommendation market close price for current day and following day are also provided.
 
-6. dwd
+   ![genAIrecomm](https://github.com/Huma-Ameer10/2024-AI-Challenge-GenInstigators/assets/88269723/d5dd1413-1241-48c6-9215-880c347d0372)
+
+6. <b>Ask AI Advisor</b> allows the user to have an instant guide on a matter of investment from an AI powered Stock Advisor.
+
    ![CHAT](https://github.com/Huma-Ameer10/2024-AI-Challenge-GenInstigators/assets/88269723/7153d2b4-a7d1-4da8-bc84-ea79b2aa9bba)
 
 ## Feedback
