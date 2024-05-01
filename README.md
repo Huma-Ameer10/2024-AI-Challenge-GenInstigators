@@ -1,10 +1,11 @@
-# AI-Challenge 2024 - GenInstigators
+# AI Challenge 2024 - GenInstigators
 
 # AI Equity Advisor
 
 ## Table of contents
-* ([Introduction](#introduction)
+* [Introduction](#introduction)
 * [Features](#features)
+* [Technologies](#technologies)
 * [Getting Started](#getting-started)
 * [Screenshots](#screenshots)
   
@@ -19,6 +20,8 @@ Welcome to the AI Equity Adivsor! Our solution aims to revolutionize the investm
 - Efficient and accurate stock recommendations via Custom Generative module.
 - Chatbot integration allowing analysts to ask questions and recieve guidance from AI-stock Advisor.
 
+## Technologies
+
 ## Getting Started 
 
 1. Access our Streamlit prototype [here](#) [Include the link to your Streamlit prototype here].
@@ -26,7 +29,7 @@ Welcome to the AI Equity Adivsor! Our solution aims to revolutionize the investm
 3. Input the required parameters and preferences.
 4. Receive well-founded stock recommendations.
 
-## Screenshots <a name="screenshots"></a>
+## Screenshots
 
 ## Feedback
 
