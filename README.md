@@ -25,10 +25,11 @@ Welcome to the AI Equity Advisor! Our solution aims to revolutionize the investm
 
 - Programming Language: Python (version: 3.10.4)
 - UI Framework: Streamlit (version: 1.33.0)
-- Generative AI: Langchain, LLama2, GPT 3.5
+- Generative AI: LLama2, GPT 3.5
+- Framework: langchain, huggingface_hub
 - Technical Indicators Library: TA-Lib
 - Data Visualization: plotly (version: 5.21.0)
-- Embeddings Storage: VectorStore
+- Embeddings Storage: VectorStoreIndexCreator  
   
 ## Getting Started 
 1. You can utilize our tool via. the Hugging Face Hub [here](https://huggingface.co/spaces/GenInstigators/NLFF-AIChallenge).
