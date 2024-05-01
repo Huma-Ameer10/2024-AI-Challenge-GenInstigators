@@ -33,8 +33,9 @@ Welcome to the AI Equity Advisor! Our solution aims to revolutionize the investm
 ## Getting Started 
 1. You can utilize our tool via. the Hugging Face Hub [here](#) [https://huggingface.co/spaces/GenInstigators/NLFF-AIChallenge].
 2. Alternatively, you can run our Streamlit app by navigating to the directory containing `app.py` in your terminal and execute the following command: streamlit run app.py.
-3. Provide the required parameters and preferences.
-4. Receive GenAI based stock recommendations.
+3. To utilize the GenAI module for recommendation inference, ensure to execute the "genai-recommendation-inference" notebook with GPU access enabled.
+4. Provide the required parameters and preferences.
+5. Receive GenAI based stock recommendations.
 
 ## Screenshots
 
