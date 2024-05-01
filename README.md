@@ -1,10 +1,16 @@
-# 2024-AI-Challenge-GenIntigators
+# AI-Challenge 2024 - GenInstigators
 
-# Equity Advisor
+# AI Equity Advisor
 
-## Introduction
+## Table of contents
+* ([Introduction](#introduction)
+* [Features](#features)
+* [Getting Started](#getting-started)
+* [Screenshots](#screenshots)
+  
+## Introduction 
 
-Welcome to the Equity Adivsor Tool! Our solution aims to revolutionize the investment recommendation process for financial analysts, providing transparency, efficiency, and accuracy in decision-making. By combining real-time analysis of geopolitical and economic factors with technical indicators, our tool offers well-founded stock recommendations in the dynamic stock market environment.
+Welcome to the AI Equity Adivsor! Our solution aims to revolutionize the investment recommendation process for financial stakeholders, providing transparency, efficiency, and accuracy in informed decision-making. By combining real-time analysis of geopolitical and economic factors with technical indicators, our tool offers well-founded stock recommendations in the dynamic stock market environment.
 
 ## Features
 
@@ -13,12 +19,14 @@ Welcome to the Equity Adivsor Tool! Our solution aims to revolutionize the inves
 - Efficient and accurate stock recommendations via Custom Generative module.
 - Chatbot integration allowing analysts to ask questions and recieve guidance from AI-stock Advisor.
 
-## Getting Started
+## Getting Started 
 
 1. Access our Streamlit prototype [here](#) [Include the link to your Streamlit prototype here].
 2. Alternatively, you can utilize our tool via the Hugging Face Hub [here](#) [Include the link to your Hugging Face Hub model].
 3. Input the required parameters and preferences.
 4. Receive well-founded stock recommendations.
+
+## Screenshots <a name="screenshots"></a>
 
 ## Feedback
 
