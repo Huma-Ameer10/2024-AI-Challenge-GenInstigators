@@ -40,7 +40,7 @@ Welcome to the AI Equity Advisor! Our solution aims to revolutionize the investm
 
 1. <b>Market Analysis</b> module provides actionable market insights for the following day based on the Current Date selected. Each indicator generates trading signals based on data driven trading startegies employed. Preference based signal range can be selected to plot on the close trend.
    
-   ![market](https://github.com/Huma-Ameer10/2024-AI-Challenge-GenInstigators/assets/88269723/fae1e536-93e2-440f-90c7-96ff52e3824b)
+   ![equity1](https://github.com/Huma-Ameer10/2024-AI-Challenge-GenInstigators/assets/92379160/71966943-e378-4403-80f3-7c48be5d9a47)
 
 2. <b>News Analysis</b> module can automatically detect the events from the real-time news to highlight their impact on the market trend. Detail of events with high impacts is also in display for comprehensive analysis.
 
