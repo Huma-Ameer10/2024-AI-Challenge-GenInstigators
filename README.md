@@ -12,7 +12,7 @@
   
 ## Introduction 
 
-Welcome to the AI Equity Adivsor! Our solution aims to revolutionize the investment recommendation process for financial stakeholders, providing transparency, efficiency, and accuracy in decision-making. By combining real-time analysis of news based event impacts in conjuction with technical indicators, our tool offers well-informed stock recommendations in the dynamic stock market environment.
+Welcome to the AI Equity Advisor! Our solution aims to revolutionize the investment recommendation process for financial stakeholders, providing transparency, efficiency, and accuracy in decision-making. By combining real-time analysis of news based event impacts in conjuction with technical indicators, our tool offers well-informed stock recommendations in the dynamic stock market environment.
 
 ## Features
 
@@ -31,9 +31,8 @@ Welcome to the AI Equity Adivsor! Our solution aims to revolutionize the investm
 - Embeddings Storage: VectorStore
   
 ## Getting Started 
-
-1. Access our Streamlit prototype [here](#) [Include the link to your Streamlit prototype here].
-2. Alternatively, you can utilize our tool via. the Hugging Face Hub [here](#) [Include the link to your Hugging Face Hub model].
+1. You can utilize our tool via. the Hugging Face Hub [here](#) [https://huggingface.co/spaces/GenInstigators/NLFF-AIChallenge].
+2. Alternatively, you can run our Streamlit app by navigating to the directory containing `app.py` in your terminal and execute the following command: streamlit run app.py
 3. Provide the required parameters and preferences.
 4. Receive GenAI based stock recommendations.
 
@@ -59,5 +58,5 @@ Welcome to the AI Equity Adivsor! Our solution aims to revolutionize the investm
 
 ## Feedback
 
-We value your feedback! If you have any query or suggestion, you may contact us at [sarshad.phd20seecs@seecs.edu.pk](mailto:email@example.com).
+We value your feedback! If you have any query or suggestion, you may contact us at [gen.instigators@gmail.com](mailto:email@example.com).
 
