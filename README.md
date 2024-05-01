@@ -7,7 +7,7 @@
 * [Features](#features)
 * [Technologies](#technologies)
 * [Getting Started](#getting-started)
-* [Screenshots](#screenshots)
+* [Step-by-step Guide](#Stepguide)
 * [Feedback](#feedback)
   
 ## Introduction 
@@ -35,10 +35,9 @@ Welcome to the AI Equity Advisor! Our solution aims to revolutionize the investm
 1. You can utilize our tool via. the Hugging Face Hub [here](https://huggingface.co/spaces/GenInstigators/NLFF-AIChallenge).
 2. Alternatively, you can run our Streamlit app by navigating to the directory containing `app.py` in your terminal and execute the following command: streamlit run app.py.
 3. To utilize the GenAI module for recommendation inference, ensure to execute the ["GenAI_recommendation_model_inference"](https://github.com/Huma-Ameer10/2024-AI-Challenge-GenInstigators/blob/main/GenAI_recommendation_model_inference.ipynb) notebook with GPU access enabled.
-4. Provide the required parameters and preferences.
-5. Receive GenAI based stock recommendations.
 
-## Screenshots
+
+## Step-by-step Guide
 
 1. <b>Market Analysis</b> module provides actionable market insights for the following day based on the Current Date selected. Each indicator generates trading signals based on data driven trading startegies employed. Preference based signal range can be selected to plot on the close trend.
    
