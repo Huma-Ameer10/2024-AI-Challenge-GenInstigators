@@ -27,7 +27,7 @@ Welcome to the AI Equity Advisor! Our solution aims to revolutionize the investm
 - UI Framework: Streamlit (version: 1.33.0)
 - Generative AI: Langchain, LLama2, GPT 3.5
 - Technical Indicators Library: TA-Lib
-- Data Visualization: plotly (version: 5.10.0)
+- Data Visualization: plotly (version: 5.21.0)
 - Embeddings Storage: VectorStore
   
 ## Getting Started 
