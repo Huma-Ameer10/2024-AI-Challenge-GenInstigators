@@ -1,4 +1,4 @@
-# AI Challenge 2024 - GenInstigators
+# 2024 AI Challenge- GenInstigators
 
 # AI Equity Advisor
 
@@ -8,30 +8,55 @@
 * [Technologies](#technologies)
 * [Getting Started](#getting-started)
 * [Screenshots](#screenshots)
+* [Feedback](#feedback)
   
 ## Introduction 
 
-Welcome to the AI Equity Adivsor! Our solution aims to revolutionize the investment recommendation process for financial stakeholders, providing transparency, efficiency, and accuracy in informed decision-making. By combining real-time analysis of geopolitical and economic factors with technical indicators, our tool offers well-founded stock recommendations in the dynamic stock market environment.
+Welcome to the AI Equity Adivsor! Our solution aims to revolutionize the investment recommendation process for financial stakeholders, providing transparency, efficiency, and accuracy in decision-making. By combining real-time analysis of news based event impacts in conjuction with technical indicators, our tool offers well-informed stock recommendations in the dynamic stock market environment.
 
 ## Features
 
-- Real-time analysis of geopolitical and economic factors.
-- Integration of technical indicators for comprehensive analysis.
-- Efficient and accurate stock recommendations via Custom Generative module.
-- Chatbot integration allowing analysts to ask questions and recieve guidance from AI-stock Advisor.
+- Automatic detection of real-time news based events and their impact on the market trend.
+- Integration of technical indicators with actionable trading insights for comprehensive analysis.
+- Efficient and personalized stock recommendations via. Custom Generative module.
+- Chatbot integration allowing analysts to ask questions and recieve instant guidance from AI-stock Advisor.
 
 ## Technologies
 
+- Programming Language: Python (version: 3.10.4)
+- UI Framework: Streamlit (version: 1.12.0)
+- Generative AI: Large Language Models (LLMs)
+- Technical Indicators Library: TA-Lib
+- Data Visualization: Plotly (version: 5.10.0)
+- Embeddings Storage: VectorStore
+  
 ## Getting Started 
 
 1. Access our Streamlit prototype [here](#) [Include the link to your Streamlit prototype here].
-2. Alternatively, you can utilize our tool via the Hugging Face Hub [here](#) [Include the link to your Hugging Face Hub model].
-3. Input the required parameters and preferences.
-4. Receive well-founded stock recommendations.
+2. Alternatively, you can utilize our tool via. the Hugging Face Hub [here](#) [Include the link to your Hugging Face Hub model].
+3. Provide the required parameters and preferences.
+4. Receive GenAI based stock recommendations.
 
 ## Screenshots
 
+1. <b>Market Analysis</b> module provides actionable market insights for the following day based on the Current Date selected. Each indicator generates trading signals based on data driven trading startegies employed. Preference based signal range can be selected to plot on the close trend.
+   
+   ![market](https://github.com/Huma-Ameer10/2024-AI-Challenge-GenInstigators/assets/88269723/fae1e536-93e2-440f-90c7-96ff52e3824b)
+
+2. <b>News Analysis</b> module can automatically detect the events from the real-time news to highlight their impact on the market trend. Detail of events with high impacts is also in display for comprehensive analysis.
+
+   ![nws](https://github.com/Huma-Ameer10/2024-AI-Challenge-GenInstigators/assets/88269723/3f35c04c-ffe5-448f-b7f1-eb743ecdeeca)
+  
+   ![events_identified](https://github.com/Huma-Ameer10/2024-AI-Challenge-GenInstigators/assets/88269723/9c432611-de57-41fc-b6a9-05567422bac0)
+
+   
+5. <b>GenAI Recommendations</b> module can automatically detect the events from the real-time news to highlight their impact on the market trend. Detail of events with high impacts is also in display for comprehensive analysis.
+   ![genAIrecomm](https://github.com/Huma-Ameer10/2024-AI-Challenge-GenInstigators/assets/88269723/5f949b8f-1d77-43c9-a55f-5251d03e94bb)
+
+6. dwd
+   ![CHAT](https://github.com/Huma-Ameer10/2024-AI-Challenge-GenInstigators/assets/88269723/7153d2b4-a7d1-4da8-bc84-ea79b2aa9bba)
+
 ## Feedback
 
-We value your feedback! If you have any inquiries or suggestions, please feel free to contact us at [sarshad.phd20seecs@seecs.edu.pk](mailto:email@example.com).
+We value your feedback! If you have any query or suggestion, you may contact us at [sarshad.phd20seecs@seecs.edu.pk](mailto:email@example.com).
 
