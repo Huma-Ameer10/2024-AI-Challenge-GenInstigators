@@ -25,14 +25,14 @@ Welcome to the AI Equity Advisor! Our solution aims to revolutionize the investm
 
 - Programming Language: Python (version: 3.10.4)
 - UI Framework: Streamlit (version: 1.12.0)
-- Generative AI: Large Language Models (LLMs)
+- Generative AI: Langchain, LLama2, GPT 3.5
 - Technical Indicators Library: TA-Lib
 - Data Visualization: plotly (version: 5.10.0)
 - Embeddings Storage: VectorStore
   
 ## Getting Started 
 1. You can utilize our tool via. the Hugging Face Hub [here](#) [https://huggingface.co/spaces/GenInstigators/NLFF-AIChallenge].
-2. Alternatively, you can run our Streamlit app by navigating to the directory containing `app.py` in your terminal and execute the following command: streamlit run app.py
+2. Alternatively, you can run our Streamlit app by navigating to the directory containing `app.py` in your terminal and execute the following command: streamlit run app.py.
 3. Provide the required parameters and preferences.
 4. Receive GenAI based stock recommendations.
 
