@@ -41,21 +41,22 @@ Welcome to the AI Equity Advisor! Our solution aims to revolutionize the investm
 
 1. <b>Market Analysis</b> module provides actionable market insights for the following day based on the Current Date selected. Each indicator generates trading signals based on data driven trading startegies employed. Preference based signal range can be selected to plot on the close trend.
    
-   ![equity1](https://github.com/Huma-Ameer10/2024-AI-Challenge-GenInstigators/assets/92379160/71966943-e378-4403-80f3-7c48be5d9a47)
+   ![market](https://github.com/Huma-Ameer10/2024-AI-Challenge-GenInstigators/assets/88269723/499a6af8-1cb9-4800-bae6-4d11f1cc3357)
 
 2. <b>News Analysis</b> module can automatically detect the events from the real-time news to highlight their impact on the market trend. Detail of events with high impacts is also in display for comprehensive analysis.
 
-   ![nws](https://github.com/Huma-Ameer10/2024-AI-Challenge-GenInstigators/assets/88269723/3f35c04c-ffe5-448f-b7f1-eb743ecdeeca)
-  
-   ![events_identified](https://github.com/Huma-Ameer10/2024-AI-Challenge-GenInstigators/assets/88269723/9c432611-de57-41fc-b6a9-05567422bac0)
+   ![nws](https://github.com/Huma-Ameer10/2024-AI-Challenge-GenInstigators/assets/88269723/2b2fa0cf-f8c3-45a0-b63e-c0f066bc74e6)   
+
+   ![events_identified](https://github.com/Huma-Ameer10/2024-AI-Challenge-GenInstigators/assets/88269723/5a84b589-90f1-41f8-8a82-91a6f54c37b8)
+
 
 3. <b>GenAI Recommendations</b> is a module built with GenAI technology which provides Custom recommendations to the user based on his role as an equity analyst or an active trader. By analysing both the technical indicators and news based event impact, a risk tolerance based recommendation along with its rational is generated for the following day.For quick accuracy check of the generated recommendation market close price for current day and following day are also provided.
 
-   ![genAIrecomm](https://github.com/Huma-Ameer10/2024-AI-Challenge-GenInstigators/assets/88269723/d5dd1413-1241-48c6-9215-880c347d0372)
+   ![genAIrecomm](https://github.com/Huma-Ameer10/2024-AI-Challenge-GenInstigators/assets/88269723/774dcc60-6656-4249-a68d-06925c40683b)
 
 6. <b>Ask AI Advisor</b> allows the user to have an instant guide on a matter of investment from an AI powered Stock Advisor.
 
-   ![CHAT](https://github.com/Huma-Ameer10/2024-AI-Challenge-GenInstigators/assets/88269723/7153d2b4-a7d1-4da8-bc84-ea79b2aa9bba)
+   ![CHAT](https://github.com/Huma-Ameer10/2024-AI-Challenge-GenInstigators/assets/88269723/50ce3548-7cc4-477a-8d78-08d4037a21a6) 
 
 ## Feedback
 
