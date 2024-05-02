@@ -19,7 +19,7 @@ Welcome to the AI Equity Advisor! Our solution aims to revolutionize the investm
 - Automatic detection of real-time news based events and their impact on the market trend.
 - Integration of technical indicators with actionable trading insights for comprehensive analysis.
 - Efficient and personalized stock recommendations via. Custom Generative module.
-- Chatbot integration allowing analysts to ask questions and recieve instant guidance from AI-stock Advisor.
+- QAbot integration allowing analysts to ask questions and recieve instant guidance from AI-stock Advisor.
 
 ## Technologies
 
