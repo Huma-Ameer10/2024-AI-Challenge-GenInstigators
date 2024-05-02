@@ -29,6 +29,7 @@ Welcome to the AI Equity Advisor! Our solution aims to revolutionize the investm
 - Framework: langchain, huggingface_hub, torch
 - Technical Indicators Library: TA-Lib
 - Data Visualization: plotly (version: 5.21.0)
+- Embeddings: HuggingFaceInstructEmbeddings
 - Embeddings Storage: faiss  
   
 ## Getting Started 
