@@ -29,7 +29,7 @@ Welcome to the AI Equity Advisor! Our solution aims to revolutionize the investm
 - Framework: langchain, huggingface_hub
 - Technical Indicators Library: TA-Lib
 - Data Visualization: plotly (version: 5.21.0)
-- Embeddings Storage: VectorStoreIndexCreator  
+- Embeddings Storage: faiss  
   
 ## Getting Started 
 1. We recommend you to access our AI Equity Advisor tool via. the Hugging Face Hub [here](https://huggingface.co/spaces/GenInstigators/NLFF-AIChallenge).
