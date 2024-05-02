@@ -7,7 +7,7 @@
 * [Features](#features)
 * [Technologies](#technologies)
 * [Getting Started](#getting-started)
-* [Step by step Guide](#stepbystepGuide)
+* [Steps Guide](#steps-guide)
 * [Feedback](#feedback)
   
 ## Introduction 
@@ -37,7 +37,7 @@ Welcome to the AI Equity Advisor! Our solution aims to revolutionize the investm
 3. To utilize the GenAI module for recommendation inference, ensure to execute the ["GenAI_recommendation_model_inference"](https://github.com/Huma-Ameer10/2024-AI-Challenge-GenInstigators/blob/main/GenAI_recommendation_model_inference.ipynb) notebook with GPU access enabled.
 
 
-## Step by step Guide
+## Steps Guide
 
 1. <b>Market Analysis</b> module provides actionable market insights for the following day based on the Current Date selected. Each indicator generates trading signals based on data driven trading startegies employed. Preference based signal range can be selected to plot on the close trend.
    
