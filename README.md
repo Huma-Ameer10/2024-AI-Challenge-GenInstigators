@@ -7,7 +7,7 @@
 * [Features](#features)
 * [Technologies](#technologies)
 * [Getting Started](#getting-started)
-* [Step-by-step Guide](#Step-guide)
+* [Step-by-step Guide](#Step-by-stepGuide)
 * [Feedback](#feedback)
   
 ## Introduction 
